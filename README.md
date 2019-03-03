@@ -6,6 +6,7 @@ RISC-V based Anasim Processor for FPGA (Soft Processor) and ASIC (Hard
 Processor) is optimized for Digital Signal Processing (DSP) and
 Artificial Intelligence (AI). For more details on RISC-V, please visit
 <span lang="zxx"><span class="underline"><https://riscv.org/></span></span>
+For the moment we support Caffe.
 
   
 
@@ -34,9 +35,12 @@ resulting in significantly lower per chip costs.
 
   
 
-**Kindly download Anasim App (to be made available soon) from Apple
-iStore to automate your AI Chip Development Process.** **The Anasim App
-lets you:**
+**Download Anasim App (to be made available soon) from Apple iStore to
+automate your AI Chip Development Process.** **Apart from you need not
+to spend thousands of US Dollars on licenses of Semiconductor Design
+Tools and on hiring highly paid teams of highly skilled Engineers for
+months to run these Tools for you in order to design AI Chip for you,
+the Anasim App lets you:**
 
 **1. Test Trained Data Model on your iPhone/iPad. You may go through the
 pre-requisites given below to obtain you Trained Data Model.**
@@ -47,20 +51,22 @@ below.**
 
 **3. Connect, Test and Debug your FPGA Board through JTAG USB Cable.**
 
-**4.** **To obtain** **technical** **support from us** **and to resolve
-technical your issues.**
+**4. To obtain technical support from us and to resolve** **your**
+**technical issues.**
 
-**5. To know ASIC fabrication facilities production schedule.**
+**5. To know fabrication facilities production schedule.**
 
-**6. To make volume and prototype ASIC fabrication order.**
+**6. To obtain commercial quotes from fabrication facilities.**
 
-**7. To make payment for** **the licenses and the order.**
+**7. To make volume and prototype ASIC fabrication order.**
 
-**8. To know order** **and delivery** **status.**
+**8. To make payment for the licenses and the order.**
 
-We hope that following material and the material given in this
-repository will also be helpful for data scientists in general apart
-from our Anasim App.
+**9. To know order and delivery status.**
+
+<span style="font-weight: normal">We hope that following material and
+the material given in this repository will also be helpful for data
+scientists in general apart from our Anasim App.</span>
 
   
 
@@ -97,7 +103,7 @@ follows:
 
   
 
-### <span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal">**Running an official image**</span></span></span>
+### <span id="__DdeLink__95_2003088534"></span> <span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal">**Running an official image**</span></span></span>
 
 <span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">You
 can run one of the version:</span></span></span></span>
@@ -181,27 +187,27 @@ runtest"`
 
   
 
-**<http://caffe.berkeleyvision.org/>**
+<span lang="zxx"><span class="underline">[**http://caffe.berkeleyvision.org/**](http://caffe.berkeleyvision.org/)</span></span>
 
   
 
-**<http://caffe.berkeleyvision.org/gathered/examples/imagenet.html>**
+<span lang="zxx"><span class="underline">[**http://caffe.berkeleyvision.org/gathered/examples/imagenet.html**](http://caffe.berkeleyvision.org/gathered/examples/imagenet.html)</span></span>
 
   
 
-**<http://shengshuyang.github.io/A-step-by-step-guide-to-Caffe.html>**
+<span lang="zxx"><span class="underline">[**http://shengshuyang.github.io/A-step-by-step-guide-to-Caffe.html**](http://shengshuyang.github.io/A-step-by-step-guide-to-Caffe.html)</span></span>
 
   
 
-**<http://vision.stanford.edu/teaching/cs231n/slides/2015/caffe_tutorial.pdf>**
+<span lang="zxx"><span class="underline">[**http://vision.stanford.edu/teaching/cs231n/slides/2015/caffe\_tutorial.pdf**](http://vision.stanford.edu/teaching/cs231n/slides/2015/caffe_tutorial.pdf)</span></span>
 
   
 
-**<https://www.panderson.me/images/Caffe.pdf>**
+<span lang="zxx"><span class="underline">[**https://www.panderson.me/images/Caffe.pdf**](https://www.panderson.me/images/Caffe.pdf)</span></span>
 
   
 
-**<http://3dvision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf>**
+<span lang="zxx"><span class="underline">[**http://3dvision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe\_tutorial.pdf**](http://3dvision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf)</span></span>
 
   
 
