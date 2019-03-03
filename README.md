@@ -6,7 +6,7 @@ RISC-V based Anasim Processor for FPGA (Soft Processor) and ASIC (Hard
 Processor) is optimized for Digital Signal Processing (DSP) and
 Artificial Intelligence (AI). For more details on RISC-V, please visit
 <span lang="zxx"><span class="underline"><https://riscv.org/></span></span>
-For the moment we support Caffe.
+.
 
   
 
@@ -36,11 +36,11 @@ resulting in significantly lower per chip costs.
   
 
 **Download Anasim App (to be made available soon) from Apple iStore to
-automate your AI Chip Development Process.** **Apart from you need not
-to spend thousands of US Dollars on licenses of Semiconductor Design
-Tools and on hiring highly paid teams of highly skilled Engineers for
-months to run these Tools for you in order to design AI Chip for you,
-the Anasim App lets you:**
+automate your AI Chip Development Process. Apart from you need not to
+spend thousands of US Dollars on licenses of Semiconductor Design Tools
+and on hiring highly paid teams of highly skilled Engineers for months
+to run these Tools for you in order to design AI Chip for you, the
+Anasim App lets you:**
 
 **1. Test Trained Data Model on your iPhone/iPad. You may go through the
 pre-requisites given below to obtain you Trained Data Model.**
@@ -51,18 +51,19 @@ below.**
 
 **3. Connect, Test and Debug your FPGA Board through JTAG USB Cable.**
 
-**4. To obtain technical support from us and to resolve** **your**
-**technical issues.**
+**4. Obtain technical support from us and resolve your technical
+issues.**
 
-**5. To know fabrication facilities production schedule.**
+<span id="__DdeLink__139_3839206482"></span> **5. Know fabrication
+facilities production schedule.**
 
-**6. To obtain commercial quotes from fabrication facilities.**
+**6. Obtain commercial quotes from fabrication facilities.**
 
-**7. To make volume and prototype ASIC fabrication order.**
+**7. Make volume and prototype ASIC fabrication order.**
 
-**8. To make payment for the licenses and the order.**
+**8. Make payment for the licenses and the order.**
 
-**9. To know order and delivery status.**
+**9. Know order and delivery status.**
 
 <span style="font-weight: normal">We hope that following material and
 the material given in this repository will also be helpful for data
