@@ -35,7 +35,36 @@ resulting in significantly lower per chip costs.
   
 
 **Kindly download Anasim App (to be made available soon) from Apple
-iStore to automate your AI Chip Development Process.**
+iStore to automate your AI Chip Development Process.** **The Anasim App
+lets you:**
+
+**1. Test Trained Data Model on your iPhone/iPad. You may go through the
+pre-requisites given below to obtain you Trained Data Model.**
+
+**2. Obtain Anasim AI Soft Processor based on Your Trained Data Model
+for your FPGA Board. Both can be flashed with the flashing methods given
+below.**
+
+**3. Connect, Test and Debug your FPGA Board through JTAG USB Cable.**
+
+**4.** **To obtain** **technical** **support from us** **and to resolve
+technical your issues.**
+
+**5. To know ASIC fabrication facilities production schedule.**
+
+**6. To make volume and prototype ASIC fabrication order.**
+
+**7. To make payment for** **the licenses and the order.**
+
+**8. To know order** **and delivery** **status.**
+
+We hope that following material and the material given in this
+repository will also be helpful for data scientists in general apart
+from our Anasim App.
+
+  
+
+**Pre-requisites:**
 
   
 
@@ -137,9 +166,46 @@ gpu`
 can also build Caffe and run the tests in the
 image:</span></span></span></span>
 
-`docker run -ti caffe:cpu bash -c "cd /opt/caffe/build; make runtest"`
+`docker run -ti caffe:cpu bash -c "cd /opt/caffe/build; make
+runtest"`
 
   
+
+  
+
+### `Study Material:`
+
+  
+
+`http://caffe.berkeleyvision.org/tutorial/`
+
+  
+
+**<http://caffe.berkeleyvision.org/>**
+
+  
+
+**<http://caffe.berkeleyvision.org/gathered/examples/imagenet.html>**
+
+  
+
+**<http://shengshuyang.github.io/A-step-by-step-guide-to-Caffe.html>**
+
+  
+
+**<http://vision.stanford.edu/teaching/cs231n/slides/2015/caffe_tutorial.pdf>**
+
+  
+
+**<https://www.panderson.me/images/Caffe.pdf>**
+
+  
+
+**<http://3dvision.princeton.edu/courses/COS598/2015sp/slides/Caffe/caffe_tutorial.pdf>**
+
+  
+
+**Flashing:**
 
 Free of Cost
 <span style="font-variant: normal"><span style="letter-spacing: normal">Quartus
