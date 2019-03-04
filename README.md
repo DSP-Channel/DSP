@@ -102,7 +102,7 @@ other than this.
 Please visit
 <span lang="zxx"><span class="underline"><https://github.com/BVLC/caffe></span></span>
 to download latest version of Caffe to build from scratch or visit
-`http://caffe.berkeleyvision.org/install_apt.html``for Caffe
+<http://caffe.berkeleyvision.org/install_apt.html> `  ``for Caffe
 installation steps for Ubuntu.`
 
   
@@ -187,8 +187,6 @@ runtest"`
   
 
 ### `Study Material:`
-
-  
 
   
 
