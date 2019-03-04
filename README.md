@@ -16,12 +16,13 @@ to know more on FPGA and ASIC.
 
   
 
-Our Proprietary Anasim Processor is improved upon RISC-V and extended
-with DSP (VLSI based) and AI capabilities which is suitable for FPGA and
-ASIC implementations. The Aansim Processor is aimed at AI and DSP
-related applications at cloud, in IoT and Edge Devices. We understand
-that to lower costs and volume production, customers have to go for ASIC
-ulitmately. Indian Central and State Governments may choose SCL
+<span id="__DdeLink__144_360745694"></span> Our Proprietary Anasim
+Processor is improved upon RISC-V and extended with DSP (VLSI based) and
+AI capabilities which is suitable for FPGA and ASIC implementations. The
+Aansim Processor is aimed at AI and DSP related applications at cloud,
+in IoT and Edge Devices. We understand that to lower costs and volume
+production, customers have to go for ASIC ulitmately. Indian Central and
+State Governments may choose SCL
 (<span lang="zxx"><span class="underline"><http://www.scl.gov.in/></span></span>)
 as their semiconductor partner to fabricate AI Chips (ASIC) based on our
 Proprietary Anasim Processor IPCores; for privately owned organizations
@@ -35,39 +36,44 @@ resulting in significantly lower per chip costs.
 
   
 
-**Download Anasim App (to be made available soon) from Apple iStore to
-automate your AI Chip Development Process. Apart from you need not to
-spend thousands of US Dollars on licenses of Semiconductor Design Tools
-and on hiring highly paid teams of highly skilled Engineers for months
-to run these Tools for you in order to design AI Chip for you, the
-Anasim App lets you:**
+**Download our Proprietary Free of Charge Anasim App (to be made
+available soon) from Apple iStore to automate your AI Chip Development
+Process. Apart from you need not to spend thousands of US Dollars on
+licenses of Semiconductor Design, Synthesis, Verification and Validation
+Tools and on hiring highly paid teams of highly skilled Engineers for
+months to run these Tools for you in order to design AI Chip for you,
+the Anasim App lets you:**
 
 **1. Test Trained Data Model on your iPhone/iPad. You may go through the
 pre-requisites given below to obtain you Trained Data Model.**
 
 **2. Obtain Anasim AI Soft Processor based on Your Trained Data Model
-for your FPGA Board. Both can be flashed with the flashing methods given
-below.**
+for your FPGA Board. Both can be flashed with the FPGA flashing tools
+given below.**
 
 **3. Connect, Test and Debug your FPGA Board through JTAG USB Cable.**
 
 **4. Obtain technical support from us and resolve your technical
 issues.**
 
-<span id="__DdeLink__139_3839206482"></span> **5. Know fabrication
-facilities production schedule.**
+**5. Obtain commercial and non-commercial/academic licenses for our
+IPCores.**
 
-**6. Obtain commercial quotes from fabrication facilities.**
+<span id="__DdeLink__139_3839206482"></span> **6. Know semiconductor
+fabrication facilities production schedule including for (Multi Project
+Wafer) MPW.**
 
-**7. Make volume and prototype ASIC fabrication order.**
+**7. Obtain commercial quotes from fabrication facilities.**
 
-**8. Make payment for the licenses and the order.**
+**8. Make volume and prototype ASIC fabrication order.**
 
-**9. Know order and delivery status.**
+**9. Make payment for the licenses and the order.**
+
+**10. Know order and delivery status.**
 
 <span style="font-weight: normal">We hope that following material and
 the material given in this repository will also be helpful for data
-scientists in general apart from our Anasim App.</span>
+scientists in general apart from our Anasim App. </span>
 
   
 
@@ -212,7 +218,7 @@ runtest"`
 
   
 
-**Flashing:**
+**Flashing** **Tools:**
 
 Free of Cost
 <span style="font-variant: normal"><span style="letter-spacing: normal">Quartus
