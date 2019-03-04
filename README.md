@@ -36,13 +36,14 @@ resulting in significantly lower per chip costs.
 
   
 
-**Download our Proprietary Free of Charge Anasim App (to be made
-available soon) from Apple iStore to automate your AI Chip Development
-Process. Apart from you need not to spend thousands of US Dollars on
-licenses of Semiconductor Design, Synthesis, Verification and Validation
-Tools and on hiring highly paid teams of highly skilled Engineers for
-months to run these Tools for you in order to design AI Chip for you,
-the Anasim App lets you:**
+![](dsp-and-data-science_html_1da49f1f1483ef20.jpg) **Convert your AI
+Research into AI Chip, download our Proprietary Free of Charge Anasim
+App (to be made available soon) from Apple iStore to automate your AI
+Chip Development Process. Apart from you need not to spend thousands of
+US Dollars on licenses of Semiconductor Design, Synthesis, Verification
+and Validation Tools and on hiring highly paid teams of highly skilled
+Engineers for months to run these Tools for you in order to design AI
+Chip for you, the Anasim App lets you:**
 
 **1. Test Trained Data Model on your iPhone/iPad. You may go through the
 pre-requisites given below to obtain you Trained Data Model.**
@@ -196,7 +197,7 @@ runtest"`
 
   
 
-**<http://caffe.berkeleyvision.org/tutorial/>**
+<span lang="zxx"><span class="underline">[**http://caffe.berkeleyvision.org/tutorial/**](http://caffe.berkeleyvision.org/tutorial/)</span></span>
 
   
 
