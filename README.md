@@ -82,18 +82,18 @@ scientists in general apart from our Anasim App. </span>
   
 
 Visitors can expect several regularly updated DSP examples with VHDL
-codes under GPL License in this repository soon. Caffe Docker images are
-also provided, please visit
+codes under GPL License in this repository soon. Please visit
 <span lang="zxx"><span class="underline"><http://caffe.berkeleyvision.org/></span></span>
 for more information on Caffe and visit
 <span lang="zxx"><span class="underline"><http://docker.com/></span></span>
-for more information on docker contain. Please visit
+for more information on docker container. Please visit
 <span lang="zxx"><span class="underline"><https://aws.amazon.com/docker/></span></span>
 to run docker image at Amazon AWS and visit
 <span lang="zxx"><span class="underline"><https://docs.microsoft.com/en-us/azure/docker/></span></span>
-to run docker image at Microsoft Azure cloud services. Our docker images
-are tested with NVIDIA CUDA 10.0 and NVIDIA cuDNN 10.0 on Ubuntu 18.04
-LTS.
+to run docker image at Microsoft Azure cloud services. Our Caffe
+installations are tested with NVIDIA CUDA 10.0 and NVIDIA cuDNN 10.0 on
+Ubuntu 18.04 LTS, so please do not expect our free support on Caffe
+other than this.
 
   
 
@@ -101,11 +101,13 @@ LTS.
 
 Please visit
 <span lang="zxx"><span class="underline"><https://github.com/BVLC/caffe></span></span>
-to download latest version of Caffe.
+to download latest version of Caffe to build from scratch or visit
+`http://caffe.berkeleyvision.org/install_apt.html``for Caffe
+installation steps for Ubuntu.`
 
   
 
-According to this site, you may run caffe docker image as
+According to this Caffe Github Site, you may run caffe docker image as
 follows:
 
   
@@ -186,7 +188,9 @@ runtest"`
 
   
 
-### `Study Material:`
+### `Caffe``Study Material:`
+
+  
 
   
 
@@ -218,7 +222,7 @@ runtest"`
 
   
 
-**Flashing** **Tools:**
+**Flashing Tools:**
 
 Free of Cost
 <span style="font-variant: normal"><span style="letter-spacing: normal">Quartus
