@@ -107,7 +107,7 @@ installation steps for Ubuntu.`
 
   
 
-According to this Caffe Github Site, you may run caffe docker image as
+According to this Caffe Github Site, you may run Caffe docker image as
 follows:
 
   
@@ -186,9 +186,7 @@ runtest"`
 
   
 
-  
-
-### `Caffe``Study Material:`
+### `Study Material:`
 
   
 
