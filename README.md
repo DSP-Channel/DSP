@@ -36,7 +36,7 @@ resulting in significantly lower per chip costs.
 
   
 
-![](dsp-and-data-science_html_1da49f1f1483ef20.jpg) **Convert your AI
+**C![](dsp-and-data-science_html_1da49f1f1483ef20.jpg) onvert your AI
 Research into AI Chip, download our Proprietary Free of Charge Anasim
 App (to be made available soon) from Apple iStore to automate your AI
 Chip Development Process. Apart from you need not to spend thousands of
@@ -49,8 +49,10 @@ Chip for you, the Anasim App lets you:**
 pre-requisites given below to obtain you Trained Data Model.**
 
 **2. Obtain Anasim AI Soft Processor based on Your Trained Data Model
-for your FPGA Board. Both can be flashed with the FPGA flashing tools
-given below.**
+for your FPGA Board. Both can be flashed with the FPGA flashing tools**
+**mentioned** **** **at the bottom of the page.** **Ship your FPGA board
+(single piece) for testing to us if it is not Xilinx Zynq 7000 Zybo
+Board.**
 
 **3. Connect, Test and Debug your FPGA Board through JTAG USB Cable.**
 
@@ -82,8 +84,15 @@ scientists in general apart from our Anasim App. </span>
 
   
 
-Visitors can expect several regularly updated DSP examples with VHDL
-codes under GPL License in this repository soon. Please visit
+Visitors may soon expect several regularly updated Caffe Model Zoo
+trained models optimized ready to run example HDL SoC codes for Xilinx
+Zynq 7000 Zybo Board under GPL License for non-commercial/academic use
+in this repository. You may also train your models by following the
+procedure given below:
+
+  
+
+Please visit
 <span lang="zxx"><span class="underline"><http://caffe.berkeleyvision.org/></span></span>
 for more information on Caffe and visit
 <span lang="zxx"><span class="underline"><http://docker.com/></span></span>
