@@ -31,9 +31,8 @@ semiconductor fabrication facilities, Governments of other friendly
 countries may also choose SCL as their semiconductor partner with SCL’s
 prior approval. As per our policy we charge for Proprietary IPCores
 licensing costs and new IPCore design, development & testing costs;
-hardware and f![](dsp-and-data-science_html_1da49f1f1483ef20.jpg)
-abrication charges are directly born by the customers resulting in
-significantly lower per chip costs.
+hardware and fabrication charges are directly born by the customers
+resulting in significantly lower per chip costs.
 
   
 
@@ -41,9 +40,7 @@ significantly lower per chip costs.
 
   
 
-  
-
-  
+![](dsp-and-data-science_html_1da49f1f1483ef20.jpg)  
 
   
 
