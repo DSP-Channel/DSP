@@ -66,8 +66,8 @@ pre-requisites given below to obtain you Trained Data Model.**
 **2. Obtain Anasim AI Soft Processor based on Your Trained Data Model
 for your FPGA Board. Both can be flashed with the FPGA flashing tools
 mentioned at the bottom of the page. Ship your FPGA board (single piece)
-for testing to us if it is not Xilinx Zynq 7000 Zybo Board.** **See
-Anasim AI Builds AI Diagram for details.**
+for testing to us if it is not Xilinx Zynq 7000 Zybo Board. See Anasim
+AI Builds AI Diagram for details.**
 
 **3. Connect, Test and Debug your FPGA Board through JTAG USB Cable.**
 
@@ -92,6 +92,19 @@ Wafer) MPW.**
   
 
 ![](dsp-and-data-science_html_88b79feb3563449.jpg)  
+
+  
+
+*<span style="font-weight: normal">Please go through
+AI-Development-and-Deployment-Process.pdf,
+</span><span style="font-weight: normal">AI-Solutions.pdf
+</span><span style="font-weight: normal"> and other files in the
+DSP-and-Data-Science repository
+</span><span style="font-weight: normal">and other
+repositories</span><span style="font-weight: normal"> for more
+details.</span>*
+
+  
 
 <span style="font-weight: normal">We hope that following material and
 the material given in this repository will also be helpful for data
@@ -264,9 +277,3 @@ following link to flash Xilinx 7 Family FPGA based
 boards:
 
 <span lang="zxx"><span class="underline"><https://www.xilinx.com/support/download.html></span></span>
-
-  
-
-*<span style="font-weight: normal">Please go through
-AI-Development-and-Deployment-Process.pdf and other files in the
-DSP-and-Data-Science repository for more details.</span>*
