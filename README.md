@@ -31,27 +31,45 @@ semiconductor fabrication facilities, Governments of other friendly
 countries may also choose SCL as their semiconductor partner with SCL’s
 prior approval. As per our policy we charge for Proprietary IPCores
 licensing costs and new IPCore design, development & testing costs;
-hardware and fabrication charges are directly born by the customers
-resulting in significantly lower per chip costs.
+hardware and f![](dsp-and-data-science_html_1da49f1f1483ef20.jpg)
+abrication charges are directly born by the customers resulting in
+significantly lower per chip costs.
 
   
 
-**C![](dsp-and-data-science_html_1da49f1f1483ef20.jpg) onvert your AI
-Research into AI Chip, download our Proprietary Free of Charge Anasim
-App (to be made available soon) from Apple iStore to automate your AI
-Chip Development Process. Apart from you need not to spend thousands of
-US Dollars on licenses of Semiconductor Design, Synthesis, Verification
-and Validation Tools and on hiring highly paid teams of highly skilled
-Engineers for months to run these Tools for you in order to design AI
-Chip for you, the Anasim App lets you:**
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+**Convert your AI Research into AI Chip, download our Proprietary Free
+of Charge Anasim App (to be made available soon) from Apple iStore to
+automate your AI Chip Development Process. Apart from you need not to
+spend thousands of US Dollars on licenses of Semiconductor Design,
+Synthesis, Verification and Validation Tools and on hiring highly paid
+teams of highly skilled Engineers for months to run these Tools for you
+in order to design AI Chip for you, the Anasim App lets you:**
 
 **1. Test Trained Data Model on your iPhone/iPad. You may go through the
 pre-requisites given below to obtain you Trained Data Model.**
 
 **2. Obtain Anasim AI Soft Processor based on Your Trained Data Model
 for your FPGA Board. Both can be flashed with the FPGA flashing tools
-mentioned** **at the bottom of the page. Ship your FPGA board (single
-piece) for testing to us if it is not Xilinx Zynq 7000 Zybo Board.**
+mentioned at the bottom of the page. Ship your FPGA board (single piece)
+for testing to us if it is not Xilinx Zynq 7000 Zybo Board.**
 
 **3. Connect, Test and Debug your FPGA Board through JTAG USB Cable.**
 
