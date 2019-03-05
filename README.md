@@ -49,10 +49,9 @@ Chip for you, the Anasim App lets you:**
 pre-requisites given below to obtain you Trained Data Model.**
 
 **2. Obtain Anasim AI Soft Processor based on Your Trained Data Model
-for your FPGA Board. Both can be flashed with the FPGA flashing tools**
-**mentioned** **** **at the bottom of the page.** **Ship your FPGA board
-(single piece) for testing to us if it is not Xilinx Zynq 7000 Zybo
-Board.**
+for your FPGA Board. Both can be flashed with the FPGA flashing tools
+mentioned** **at the bottom of the page. Ship your FPGA board (single
+piece) for testing to us if it is not Xilinx Zynq 7000 Zybo Board.**
 
 **3. Connect, Test and Debug your FPGA Board through JTAG USB Cable.**
 
